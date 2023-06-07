@@ -1,0 +1,36 @@
+background{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    margin-top: 40px;
+    margin-left: 450px;
+}
+input.test[type=text]{
+    width: 400px;
+    height: 40px;
+    margin-left: 450px;
+    padding:2px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+input[type=submit]{
+    margin-top: 10px;
+    margin-left: 600px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
+
+  .img{
+    margin-top: 30px;
+    margin-left: 450px;
+  }
+ 
